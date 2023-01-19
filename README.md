@@ -1,2 +1,2 @@
-# JM_ICPC_Notebook
-Personal Notebook for ICPC Contest
+# TEC PUE ICPC_Notebook
+TEC PUE Notebook for ICPC Contest
